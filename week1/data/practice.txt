@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "category": "餐饮",
+    "amount": 25.5,
+    "note": "午饭"
+  },
+  {
+    "id": 2,
+    "category": "交通",
+    "amount": 12.0,
+    "note": "地铁"
+  },
+  {
+    "id": 3,
+    "category": "咖啡",
+    "amount": 8.8,
+    "note": "拿铁"
+  }
+]
