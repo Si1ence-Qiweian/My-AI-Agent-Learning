@@ -21,7 +21,7 @@ def list_expenses(expenses):
 
     print("\nID | 分类 | 金额 | 备注")
     print("-" * 40)
-    for expense in ledger:
+    for expense in expenses:
         print(
             f"{expense["id"]} | {expense["category"]} | "
             f"{expense["amount"]} | {expense["note"]}"

@@ -8,11 +8,13 @@ A 24-week journey from Python basics to AI fullstack applications.
 - [x] Day 2: variables, conditions, loops
 - [x] Day 3: functions + temperature/BMI CLI
 - [x] Day 4: lists, dicts, memory ledger CLI
+- [x] Day 5: Json persistance and exception handing
 
 ## Structure
 
 - `week1/` — Python basics and mini CLIs
 - `notes/` — daily learning notes
+- `data/` — Local JSON data (not commited)
 
 ## Run
 
