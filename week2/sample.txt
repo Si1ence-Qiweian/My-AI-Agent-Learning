@@ -1,0 +1,13 @@
+AI agents are becoming more useful.
+An AI agent can use tools to complete tasks.
+Agents need memory to remember information.
+Memory helps agents understand previous tasks.
+Tools allow agents to interact with the world.
+Python is a useful language for building AI agents.
+AI applications need safety and evaluation.
+Evaluation helps us improve agent performance.
+Safety is important when agents use external tools.
+Good agents need memory, tools, and evaluation.
+Python makes AI development easier.
+AI agents can work with different tools.
+Python python PYTHON!
