@@ -5,7 +5,7 @@
 ## 当前进度
 
 - [x] Week 1: Python 基础、函数、文件、JSON、Git/GitHub
-- [ ] Week 2: 模块、测试、HTTP
+- [x] Week 2: 模块、测试、HTTP
 - [ ] Week 3: Web 前端
 - [ ] Week 4: FastAPI 后端
 - [ ] 后续：LLM、RAG、Agent、全栈产品
@@ -17,6 +17,7 @@
 ├── data/          # 本地数据，ledger.json 不提交
 ├── notes/         # 每日学习笔记
 ├── week1/         # Python 基础与小型 CLI
+├── week2/         # API 请求基础与工程化初步
 ├── README.md
 └── .gitignore
 ```
@@ -53,6 +54,34 @@ python week1/test_ledger.py
 | `bmi.py` | BMI 计算 CLI |
 | `ledger.py` | JSON 持久化记账 CLI |
 | `test_ledger.py` | 记账核心函数的边界测试 |
+
+## Week 2 内容
+
+# Article Explorer
+
+## 项目介绍
+
+使用 Python 和 requests 实现的文章查询工具。
+
+## 技术栈
+
+- Python
+- Requests
+- Pytest
+- Logging
+- Argparse
+
+## 安装
+
+pip install -r requirements.txt
+
+## 运行
+
+python -m article_explorer.main --user-id 1
+
+## 测试
+
+python -m pytest tests -v
 
 ## 数据说明
 

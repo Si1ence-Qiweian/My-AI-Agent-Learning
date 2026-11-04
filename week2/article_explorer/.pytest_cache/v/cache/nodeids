@@ -1,0 +1,6 @@
+[
+  "services.py::test_count_articles",
+  "services.py::test_count_articles_empty",
+  "services.py::test_extract_articles",
+  "services.py::test_extract_bodies"
+]
